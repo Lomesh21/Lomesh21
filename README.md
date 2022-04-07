@@ -1,7 +1,6 @@
 <h1 align="center" >Hi <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Lomesh</h1>
 <h3 align="center">Enthusiast about Coding</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
+<img align="right" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomesh21&label=Profile%20views&color=0e75b6&style=flat" alt="lomesh21" /> </p>
 
 - 🔭 I’m currently working on **Database Project**
