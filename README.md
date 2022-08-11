@@ -3,9 +3,9 @@
 <img align="right" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomesh21&label=Profile%20views&color=0e75b6&style=flat" alt="lomesh21" /> </p>
 
-- 🔭 I’m currently working on **Database Project**
 
-- 🌱 I’m currently learning **JAVA and Web Developement**
+
+- 🌱 I’m currently learning **Data Mining and Flutter Dart**
 
 - 💬 Ask me about **C,C++ and Data Structures**
 
