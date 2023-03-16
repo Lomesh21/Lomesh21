@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomesh21&label=Profile%20views&color=0e75b6&style=flat" alt="lomesh21" /> </p>
 
 
-- 🧑🏻‍💼 I'm an **Intern @ L3A2KART** with role as Frontend Developer(Flutter)
+- 🧑🏻‍💼 Ex **Intern @ L3A2KART** with role as Frontend Developer(Flutter)
 
 - 🌱 I’m currently learning **Data Mining and Flutter Dart**
 
